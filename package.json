@@ -1,0 +1,10 @@
+{
+  "name": "AwesomeApp",
+  "version": "1.0.0",
+  "description": "Initial ideia is to implement a rate limiter with redis",
+  "main": "index.js",
+  "repository": "https://github.com/julianolm/RateLimiter",
+  "author": "julianolm",
+  "license": "MIT",
+  "private": false
+}
